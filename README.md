@@ -48,7 +48,7 @@ Suecia, Inglaterra y Brasil lideran la tabla histórica de partidos jugados.
 Brasil, Argentina y México son los equipos que más partidos han jugado en condición de local.
 
 ### 3. Máximos Ganadores en Copas del Mundo
-![World Cup Wins](![Uploading image.png…]()
+![World Cup Wins](<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/de4867ee-128e-4a38-bdce-20d3f372033f" />
 ) <!-- Reemplaza con el link real a tu gráfico -->
 El análisis confirma el dominio histórico de **Brasil (73 victorias)**, seguido por **Alemania (67)** e **Italia (45)** en partidos de fase final de Mundiales.
 
